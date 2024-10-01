@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning at Devops TechLab is Gopal Mahera. 
-      Done Project With Continues Delivery .</h1>
+    <h1> Final Job Done For This Sessioon </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
